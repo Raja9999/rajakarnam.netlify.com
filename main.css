@@ -1,0 +1,30 @@
+.site-header{
+    background-color: green;
+    color: white;
+    height: 100vh;
+    font=font-family: moonspace;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.prof-pic{
+    border-radius: 50%;
+    width: 200  px;
+    height: 200px;
+    -webkit-transform:rotate(990deg);
+  -moz-transform: rotate(990deg);
+  -ms-transform: rotate(990deg);
+  -o-transform: rotate(990deg);
+  transform: rotate(990deg);
+}
+
+.site-content{
+    margin: 2px;
+}
+
+body{
+    margin: 2;
+}
